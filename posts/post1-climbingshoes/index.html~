@@ -6,12 +6,13 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
   <meta name="generator" content="Hugo 0.120.4">
-  <link rel="canonical" href="https://m4gg13.github.io/posts/post3-particle-sandbox-23november2023/" />
+  <link rel="canonical" href="https://m4gg13.github.io/posts/post1-climbingshoes/" />
 
   
     
-    <meta name="description" content="I’ve got some education on the subject of programming a quantum computer. Used Qiskit as well as OpenQASM. I have less education on the subject of particle physics but I do love the particle physics at a high level. I’ve become somewhat familiar with it through comsuming relevant media like:
-field guide to particle physics that one mindscape episode and other ones too wiki pages youtube videos Thought a good first step would be looking into what kinds of algorithms get used in quantum particle simulations.">
+    <meta name="description" content="When I started climbing about 3.5 years ago I picked up a pair of La Sportiva Finales at the suggestion of an experienced friend. Loved them so much for all of the years that I wore them!!!
+Then, of course, the inevitable happened and I blew through the toes.
+I began the search for a new pair of climbing shoes and went with a pair of La Sportiva Solutions because I wanted an aggressive shoes and they have a great reputation.">
   
 
   <link rel="apple-touch-icon" sizes="180x180" href="https://m4gg13.github.io/apple-touch-icon.png">
@@ -57,7 +58,7 @@ field guide to particle physics that one mindscape episode and other ones too wi
 
   
   
-  <title>Particle Sandbox - Identifying a simulation algorithm | My New Hugo Site</title>
+  <title>Women&#39;s Climbing Shoes - La Sportiva Kubo are great shoes! | My New Hugo Site</title>
 </head>
 
   <body>
@@ -191,6 +192,8 @@ field guide to particle physics that one mindscape episode and other ones too wi
   
   <ul id="patterns-list">
     <div>
+      <a href="https://m4gg13.github.io/gig/posts/" target="_self">Posts</a>
+      <br>
     </div>
     
   </ul>
@@ -204,18 +207,12 @@ field guide to particle physics that one mindscape episode and other ones too wi
         <div>
           
   <main id="main">
-    <h1>Particle Sandbox - Identifying a simulation algorithm</h1>
-    <!-- raw HTML omitted -->
-<p>I&rsquo;ve got some education on the subject of programming a quantum computer. Used Qiskit as well as OpenQASM. I have less education on the subject of particle physics but I do love the particle physics at a high level. I&rsquo;ve become somewhat familiar with it through comsuming relevant media like:</p>
-<ul>
-<li>field guide to particle physics</li>
-<li>that one mindscape episode and other ones too</li>
-<li>wiki pages</li>
-<li>youtube videos</li>
-</ul>
-<p>Thought a good first step would be looking into what kinds of algorithms get used in quantum particle simulations. That fits into the broader category of chemical simulations, really. So i turned to this article <a href="https://arxiv.org/pdf/2109.02873.pdf">&ldquo;Emerging quantum computing algorithms for quantum chemistry&rdquo;</a></p>
-<p>and discovered that of the suggested algorithms that are available in the qiskit library, we&rsquo;ve got Trotterization. Suzuki Trotter specifically. So I guess that&rsquo;s what we&rsquo;re going with.</p>
-<p>Also, got this repo where someone started doing the work of setting up standard model visualization things so i&rsquo;ll fork that and add python to it for qiskit</p>
+    <h1>Women&#39;s Climbing Shoes - La Sportiva Kubo are great shoes!</h1>
+    <p>When I started climbing about 3.5 years ago I picked up a pair of La Sportiva Finales at the suggestion of an experienced friend. Loved them so much for all of the years that I wore them!!!</p>
+<p>Then, of course, the inevitable happened and I blew through the toes.</p>
+<p>I began the search for a new pair of climbing shoes and went with a pair of La Sportiva Solutions because I wanted an aggressive shoes and they have a great reputation.</p>
+<p>Turns out, they are not the shoe for me at this point in my climbing career. Much too aggressive for me with a toe box that didn&rsquo;t suit me. Also, extremely stiff. No doubt that they&rsquo;re great shoes for intense, high grade climbers! Juuuust not for me right now.</p>
+<p>So I went on the hunt again. This time I was much more careful and I knew more about what I was looking for. Medium-aggressive shoes that are somewhat flexible. A toe box that suits the shape of my foot. A heel that feels solidly in place when the shoes are on. I tried on many shoes and sought advice from experienced climbers and landed on a pair of La Sportiva Kubos. They&rsquo;re excellent! I was able to break them in within about a month and now I can happily climb at my limits with shoes that are snug but don&rsquo;t make me cry. (: Would absolutely recommend them to any climber looking for the same things I was.</p>
 
   </main>
 
